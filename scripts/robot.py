@@ -1,3 +1,4 @@
+Author: YuLong Pei, Zizhou Zhai
 #!/usr/bin/env python
 
 #robot.py implementation goes here
